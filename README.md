@@ -31,11 +31,11 @@ Execute the program using runserver command.
 </head>
 <body>
 <center>
-<img src="c:\Users\admin\Pictures\Screenshots\Screenshot 2025-09-29 140115.png" height="100" width="500">
+<img src="C:\Users\admin\Desktop\Screenshot 2025-10-25 132437.png" height="100" width="500">
 </center>
 <br>
 <table align="center" width="500" cellspacing="3" cellpadding="2" border="2" bgcolor="yellow">
-<caption><b>SLOT TIME TABLE - SUBIKSHA K (212224040332)</b></caption>
+<caption><b>SLOT TIME TABLE - Kamalesh.y (212223243001)</b></caption>
 <tr align="center">
 <th bgcolor="cyan">Day/Time</th>
 <th bgcolor="cyan">Monday</th>
@@ -130,7 +130,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-<img width="1268" height="800" alt="Screenshot 2025-10-25 131615" src="https://github.com/user-attachments/assets/b2449ec8-0ef0-4f29-bf24-d5b91f4a618f" />
+
+<img width="1498" height="1051" alt="Screenshot 2025-10-25 133327" src="https://github.com/user-attachments/assets/b1df361a-2387-405d-a007-31030dfe0a6b" />
 
 
 
